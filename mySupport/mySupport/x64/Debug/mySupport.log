@@ -1,0 +1,17 @@
+﻿生成启动时间为 2017/11/13 4:58:02。
+     1>项目“E:\MySQL and C++\mySupport\mySupport\mySupport.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         G:\VS2013 Install\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Debug\mySupport.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt mySupportDlg.cpp
+         mySupportDlg.cpp
+     1>mySupportDlg.cpp(17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+       Link:
+         G:\VS2013 Install\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\MySQL and C++\mySupport\x64\Debug\mySupport.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files\MySQL\MySQL Server 5.7\lib" /LIBPATH:"C:\Program Files\MySQL\MySQL Server 5.7\bin" libmysql.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"G:\VS2013 Install\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\MySQL and C++\mySupport\x64\Debug\mySupport.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\MySQL and C++\mySupport\x64\Debug\mySupport.lib" /MACHINE:X64 x64\Debug\mySupport.res
+         x64\Debug\mySupport.obj
+         x64\Debug\mySupportDlg.obj
+         x64\Debug\stdafx.obj
+         mySupport.vcxproj -> E:\MySQL and C++\mySupport\x64\Debug\mySupport.exe
+     1>已完成生成项目“E:\MySQL and C++\mySupport\mySupport\mySupport.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.65
